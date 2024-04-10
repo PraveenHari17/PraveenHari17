@@ -24,8 +24,9 @@ I'm a third-year Computer Systems Engineering student at Carleton University, wi
 
 ## 🏆 Certifications
 
-- JavaScript Algorithm and Data Structures
-- Responsive Web Design
+- [JavaScript Algorithm and Data Structures](https://www.freecodecamp.org/certification/PraveenHari/javascript-algorithms-and-data-structures) from freeCodeCamp
+- [Responsive Web Design](https://www.freecodecamp.org/certification/PraveenHari/responsive-web-design) from freeCodeCamp
+
 
 ## 🚀 Projects
 
